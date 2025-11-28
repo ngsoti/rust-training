@@ -345,7 +345,7 @@ fn pattern_matching_beyond_enums_3() {
         }
     }
 
-    tell_me("What is the answer to the ultimate question of line, the universe, and everything ?");
+    tell_me("What is the answer to the ultimate question of life, the universe, and everything ?");
     println!();
     tell_me("What is the color of the white horse of Henry the 4th?");
     println!();

@@ -54,7 +54,7 @@ fn trait_syntax() {
     println!("cat say: {}", cat.greet());
 }
 
-/// Default implementations allow traits to provide standard behavior that:
+/// Default implementations allow traits to provide standard behavior
 ///
 /// This makes traits more powerful and maintainable by:
 /// - Giving a standard implementation that works for most cases
