@@ -1,5 +1,11 @@
 # Rust Training
 
+This series of training provide hands-on Rust training material through progressive exercises and examples.
+
+It focuses on core Rust concepts such as ownership, borrowing, lifetimes, and error handling.
+
+Designed for self-learning or workshops, it helps developers build a strong foundation in Rust.
+
 ## About
 This repository contains materials for a 2-3 day Rust training course.
 
@@ -7,6 +13,10 @@ The training is designed **not** to replace *The Rust Programming Language* book
 
 ## Target Audience
 This training is intended for developers who already have proficiency in at least one other programming language.
+
+## Videos
+
+- [Videos play-list of the Rust training](https://www.youtube.com/playlist?list=PLhSWiKucshm5vWvFCqtJePVVYgIXH6_6y)
 
 ## Recommended Learning Path
 
