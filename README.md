@@ -77,3 +77,17 @@ remember what we have seen in this training
 1. [Generics](./memos/generics.md)
 1. [Traits](./memos/traits.md)
 1. [Lifetimes](./memos/lifetimes.md)
+
+# License
+
+All the materials are dual-licensed under GNU Affero General Public License version 3 or later and the Creative Commons Attribution-ShareAlike 4.0 International. You can use either one of the licenses depending of your use case of the training materials.
+
+# Disclaimer
+
+Co-funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Cybersecurity Competence Centre. Neither the European Union nor the granting authority can be held responsible for them.
+
+This repository is part of the NGSOTI project. Project: 101127921 NGSOTI DIGITAL‑ECCC‑2022‑CYBER‑03
+
+<img width="387" height="68" alt="image" src="https://github.com/user-attachments/assets/deec637c-9a57-4fd5-8ba2-25b8cba1ec92" />
+
+
